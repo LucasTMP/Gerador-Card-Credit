@@ -30,10 +30,6 @@
 
 ## Sobre o projeto
 
-<p align="center" width="100%">
-    <img width="33%" src="https://i.ibb.co/8mFLRKL/nf.png"> 
-</p>
-
 Em construção ...
 
 ### Desenvolvido com
